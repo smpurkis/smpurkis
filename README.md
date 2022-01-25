@@ -2,9 +2,10 @@
 
 
 ### I'm a Christian, Developer, ML/AI Lover and lifetime Learner!
-- I'm constantly learning and tinkering with Artificial Intelligence :robot: and Machine Learning [example](https://github.com/smpurkis/kivy_object_detection_camera_app).
+- I'm constantly learning and tinkering with Artificial Intelligence :robot: and Machine Learning, [example](https://github.com/smpurkis/kivy_object_detection_camera_app).
 - I am currently learning PyTorch :fire:, as I've found TensorFlow a bit buggy :bug:.
-- I am learning more Javascript, to show more of what AI can do [simple example](https://github.com/smpurkis/motion_controlled_snake).
+- I am learning more Javascript, to show more of what AI can do, [simple example](https://github.com/smpurkis/motion_controlled_snake).
+- I'm also learning Rust, mainly as I'm interested in WebAssembly (Wasm).
 - I love Python (the best language :snake:), and enjoy seeing what I can do with it and increasing its performance.
 - I would like to contribute to more open source projects :smile:.
 
@@ -43,3 +44,6 @@ These are languages, tools and projects I have experience with, either from work
 - [Svelte](https://svelte.dev/)
 - [NodeJS](https://nodejs.org/)
 - [TensorFlowJS <img align="center" alt="TensorFlow.js" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg"/>](https://www.tensorflow.org/js)
+
+[Rust <img align="center" alt="Rust" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>](https://www.rust-lang.org/)
+- [Wasm Bindgen](https://github.com/rustwasm/wasm-bindgen)
