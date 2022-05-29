@@ -10,7 +10,7 @@
 - I would like to contribute to more open source projects :smile:.
 
 
-### Me links
+### My links
 [<img align="left" style="margin-left: 3px" alt="Sam Purkis | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/sam-purkis-4baa6668/)
 
 [<img align="left" style="margin-left: 3px" alt="Sam Purkis | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/sam.purkis.3/)
