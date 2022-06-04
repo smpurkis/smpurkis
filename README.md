@@ -10,12 +10,32 @@
 - I would like to contribute to more open source projects :smile:.
 
 
+### Project Highlights
+#### Python
+- [Face Detection from Scratch](https://github.com/smpurkis/PyTorch-Face-Detection-from-Scratch) - Face detection using Yolo architecture from scratch. Uses Pytorch/Pytorch Lightning as the ML framework
+- [Chess CNN](https://github.com/smpurkis/chess_cnn_supervised) - Convolutional Neural Network trained using supervised learning on grandmaster chess players (sourced from Lichess). Uses Keras.
+- [Animal Population Simulation](https://github.com/smpurkis/population_simulation) - Population simulation of "foxes", "pigs" and "grass" to see how the patterns change with initial conditions and hyperparameters. Uses Numpy and OOP practices.
+- [Face Detection App](https://github.com/smpurkis/kivy_object_detection_camera_app) - Fun little project, overlays swag glasses on the face. Built using Kivy (cross platform, mobile and desktop) and OpenCV.
+- [Fast Json Normalize](https://github.com/smpurkis/fast_json_normalize) - A fast implementation of `json_normalize` function in Pandas (has been merged, see [here](https://github.com/pandas-dev/pandas/pull/40035)).
+- [Auto Beatsage](https://github.com/smpurkis/auto_beatsage) - Gluing together YouTube to [Beatsage](https://beatsage.com/) with my Oculus Quest to add any YouTube song as a Beatsaber song.
+- [Autocompile](https://github.com/smpurkis/autocompile) - Declarator to compile and speed up a function with Cython harnessing the type hints for type information. Uses Cython.
+- [Crypto Price Dashboard](https://github.com/smpurkis/dash_crypto_price_dashboard) - (WIP) Dashboard showing the price of different cryptocurrencies over time. Uses APIs and Dash.
+- [Doorbell project](https://github.com/smpurkis/doorbell_project) - (WIP) A smart doorbell that announces who is at the door as they approach (e.g. Amazon delivery, Mother in Law)
+- [PyTorch Playground](https://github.com/smpurkis/pytorch_playground) - Collection of Colab Notebooks of me exploring different aspects of ML and PyTorch
+- [Data Science with Python](https://github.com/smpurkis/Data-Science-with-Python) - A readme I made for a friend giving description of different Python libraries used for Data Science
+
+#### JavaScript
+- [Motion controlled Snake](https://github.com/smpurkis/motion_controlled_snake) - Motion controlled snake game uses webcam. Build using React and TensorFlow JS.
+- [Dota Heroes Website](https://github.com/smpurkis/open-dota-api-svelte) - Information website of Dota Heroes, using multiple APIs. Build using Svelte.
+
+
 ### My links
 [<img align="left" style="margin-left: 3px" alt="Sam Purkis | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/sam-purkis-4baa6668/)
 
-[<img align="left" style="margin-left: 3px" alt="Sam Purkis | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/sam.purkis.3/)
 
-[<img align="left" style="margin-left: 3px" alt="Sam Purkis | Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>](https://www.reddit.com/user/Zyguard7777777)
+[<img align="left" style="margin-left: 10px" alt="Sam Purkis | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/sam.purkis.3/)
+
+[<img align="left" style="margin-left: 10px" alt="Sam Purkis | Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>](https://www.reddit.com/user/Zyguard7777777)
  <br>
 
 
